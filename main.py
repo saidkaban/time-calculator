@@ -7,4 +7,4 @@ print(add_time("08:56 PM", "48:05", "Wednesday"))
 
 
 # Run unit tests automatically
-#main(module='test_module', exit=False)
+main(module='test_module', exit=False)
